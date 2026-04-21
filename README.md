@@ -1,9 +1,9 @@
 # CustomerChurn_Analysis
 
 # Tools & Technologies
-Language: Python
-Libraries: Pandas (Data Manipulation), Matplotlib & Seaborn (Visualization) 
-Environment: Jupyter Notebook
+* Language: Python
+* Libraries: Pandas (Data Manipulation), Matplotlib & Seaborn (Visualization) 
+* Environment: Jupyter Notebook
 
 # Project Overview
 This project focuses on identifying the key drivers behind customer attrition (churn) for a telecommunications company. By analyzing demographic data and service usage patterns, I developed insights to help business stakeholders improve retention strategies and identify high-risk customer segments.
@@ -16,9 +16,9 @@ This project focuses on identifying the key drivers behind customer attrition (c
 * Tenure Milestones: A significant drop in customer retention is observed after the 36-month (3-year) mark, suggesting a need for loyalty incentives at this stage. 
 
 # Technical Implementation
-Exploratory Data Analysis (EDA): Performed comprehensive data cleaning and univariate/bivariate analysis to uncover hidden correlations.
+* Exploratory Data Analysis (EDA): Performed comprehensive data cleaning and univariate/bivariate analysis to uncover hidden correlations.
 
-Data Visualization: Utilized Seaborn and Matplotlib to create intuitive charts that visualize the relationship between contract types, charges, and churn behavior. 
+* Data Visualization: Utilized Seaborn and Matplotlib to create intuitive charts that visualize the relationship between contract types, charges, and churn behavior. 
 
-Actionable Reporting: Translated technical findings into a "Business Strategy" format to help marketing teams focus their budget on high-risk retention.
+* Actionable Reporting: Translated technical findings into a "Business Strategy" format to help marketing teams focus their budget on high-risk retention.
 
